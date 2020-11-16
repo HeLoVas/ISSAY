@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ISSAY/static/css/main.42f0324b.chunk.css",
-    "main.js": "/ISSAY/static/js/main.995ebc64.chunk.js",
-    "main.js.map": "/ISSAY/static/js/main.995ebc64.chunk.js.map",
+    "main.js": "/ISSAY/static/js/main.3ae7c501.chunk.js",
+    "main.js.map": "/ISSAY/static/js/main.3ae7c501.chunk.js.map",
     "runtime-main.js": "/ISSAY/static/js/runtime-main.21fbab36.js",
     "runtime-main.js.map": "/ISSAY/static/js/runtime-main.21fbab36.js.map",
     "static/js/2.c1291482.chunk.js": "/ISSAY/static/js/2.c1291482.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.21fbab36.js",
     "static/js/2.c1291482.chunk.js",
     "static/css/main.42f0324b.chunk.css",
-    "static/js/main.995ebc64.chunk.js"
+    "static/js/main.3ae7c501.chunk.js"
   ]
 }
